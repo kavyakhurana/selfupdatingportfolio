@@ -14,3 +14,4 @@ jobs:
       - uses: kaustubhgupta/PortfolioFy@main 
         with:
           gh_token: ${{ secrets.TOKEN }} # Create a secret to store the access token 
+          theme: 2
